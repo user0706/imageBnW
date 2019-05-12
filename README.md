@@ -7,7 +7,7 @@ Pillow (PIL) module was used to open the image, while the Numpy module was used 
 
 Expressing the image through Numpy array, the image is ready for software manipulation. The whole picture can be presented as a lists in the list in the list.
 
-![](https://github.com/user0706/imageBnW/blob/master/ignore/listsOfImage.png)
+![](https://github.com/user0706/imageBnW/blob/master/ignore/listsOfImage.jpg)
 
 The idea of converting an image to black and white is extremely simple. 
 
