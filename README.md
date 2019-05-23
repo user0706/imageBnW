@@ -37,7 +37,7 @@ import matplotlib.pyplot as plt
 import mymodule as mm
 ```
 
-As you can see, there is a library called mymetode. There is a mechanism under which the image is converted to a deep, black-and-white image
+As you can see, there is a library called mymodule. There is a mechanism under which the image is converted to a deep, black-and-white image
 
 
 ```python
