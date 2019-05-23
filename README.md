@@ -18,11 +18,12 @@ Grouping pixels along the line one below the other, line by line, the appearance
 Green - the first line <br>
 Purple - second line <br>
 Dark blue - third line
-
+<p align="center">
 <img src="./ignore/3x3.png" width="550"/>
-
+</p>
+<p align="center">
 <br><center><img src="./ignore/imageBnWValueTabel.png" width="250"/></center>
-
+</p>
 ### Commenting the code
 
 Now we're ready to dig into what makes an image in numbers. For this, we use PIL or Pillow.
@@ -89,5 +90,6 @@ The last part of the script only serves to visualize the results.
 plt.imshow(imageArray)
 plt.show()
 ```
-
+<p align="center">
 <center><img src="./ignore/1.png" width="700"/></center>
+</p>
