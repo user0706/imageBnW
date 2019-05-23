@@ -24,7 +24,7 @@ Dark blue - third line
 <p align="center"><img src="./ignore/imageBnWValueTabel.png" width="250"/>
 </p>
 
-## Commenting the code
+### Commenting the code
 
 Now we're ready to dig into what makes an image in numbers. For this, we use PIL or Pillow.
 
