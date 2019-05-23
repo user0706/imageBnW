@@ -19,7 +19,7 @@ Green - the first line <br>
 Purple - second line <br>
 Dark blue - third line
 
-<center><img src="./ignore/3x3.png" width="550"/></center>
+<img align="center" src="./ignore/3x3.png" width="550"/>
 
 <br><center><img src="./ignore/imageBnWValueTabel.png" width="250"/></center>
 
