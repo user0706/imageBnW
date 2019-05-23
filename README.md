@@ -4,9 +4,9 @@
 A pixel is the smallest unit of a digital image or graphic that can be displayed and represented on a digital display device. A pixel is represented by a dot or square on a computer monitor display screen. Pixels are the basic building blocks of a digital image or display and are created using geometric coordinates. Depending on the graphics card and display monitor, the quantity, size and color combination of pixels varies and is measured in terms of the display resolution.
 
 For example, a computer with a display resolution of 17 x 17 will produce a maximum of 289 pixels on a display screen. Each pixel has a unique logical address, a size of eight bits or more. Let's consider that each pixel (square) has its RGB (Red-Green-Blue) value respectively.
-
-<img align="center" src="./ignore/emojiInPixel.svg" width="200"/>
-
+<p align="center"> 
+<img src="./ignore/emojiInPixel.svg" width="200"/>
+</p>
 For the picture above, as it is said, each pixel has its own red, green, and blue value. Thus, for example, a pixel that is black can be represented as a list of values of red, green and blue, respectively. That is, [0,0,0] such a black pixel record.
 
 # How this script recognizes pixel values?
