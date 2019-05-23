@@ -21,8 +21,7 @@ Dark blue - third line
 <p align="center">
 <img src="./ignore/3x3.png" width="550"/>
 </p>
-<p align="center">
-<br><center><img src="./ignore/imageBnWValueTabel.png" width="250"/></center>
+<p align="center"><img src="./ignore/imageBnWValueTabel.png" width="250"/>
 </p>
 ### Commenting the code
 
@@ -91,5 +90,5 @@ plt.imshow(imageArray)
 plt.show()
 ```
 <p align="center">
-<center><img src="./ignore/1.png" width="700"/></center>
+<img src="./ignore/1.png" width="700"/>
 </p>
