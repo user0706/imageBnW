@@ -5,7 +5,7 @@ A pixel is the smallest unit of a digital image or graphic that can be displayed
 
 For example, a computer with a display resolution of 17 x 17 will produce a maximum of 289 pixels on a display screen. Each pixel has a unique logical address, a size of eight bits or more. Let's consider that each pixel (square) has its RGB (Red-Green-Blue) value respectively.
 
-<img src="./ignore/emojiInPixel.svg" width="200"/>
+<center><img src="./ignore/emojiInPixel.svg" width="200"/></center>
 
 For the picture above, as it is said, each pixel has its own red, green, and blue value. Thus, for example, a pixel that is black can be represented as a list of values of red, green and blue, respectively. That is, [0,0,0] such a black pixel record.
 
@@ -19,9 +19,9 @@ Green - the first line <br>
 Purple - second line <br>
 Dark blue - third line
 
-<img src="./ignore/3x3.png" width="550"/>
+<center><img src="./ignore/3x3.png" width="550"/></center>
 
-<br><img src="./ignore/imageBnWValueTabel.png" width="250"/>
+<br><center><img src="./ignore/imageBnWValueTabel.png" width="250"/></center>
 
 ### Commenting the code
 
@@ -90,4 +90,4 @@ plt.imshow(imageArray)
 plt.show()
 ```
 
-<img src="./ignore/1.png" width="700"/>
+<center><img src="./ignore/1.png" width="700"/></center>
